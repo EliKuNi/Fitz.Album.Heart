@@ -45,8 +45,12 @@ def body():
     t.right(85)
     t.forward(15)
     t.right(95)
-    t.forward(90)
-    t.right(-80)
+    t.forward(93)
+    t.right(-90)
+    t.forward(17)
+    t.right(-90)
+    t.forward(120)
+
 
 #screen.bgpic()
 body()
