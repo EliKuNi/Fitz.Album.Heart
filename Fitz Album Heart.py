@@ -108,6 +108,7 @@ def body():
     t.forward(160)
     t.left(179)
 
+    # the other bit
     t.down()
     t.forward(150)
     t.right(90)
